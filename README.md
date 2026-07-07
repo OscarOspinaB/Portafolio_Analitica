@@ -9,8 +9,6 @@ Economista y Analista de Datos enfocado en la toma de decisiones organizacionale
 
 ## 📑 Índice de Proyectos
 
-## 📑 Índice de Proyectos
-
 * [📊 01 Proyecto: Análisis de Datos (Estud-IA)](#-proyecto-análisis-de-datos-estud-ia)
 * [📊 02 Proyecto: Dashboard de Mesa de Ayuda TI](#-proyecto-dashboard-de-mesa-de-ayuda-ti)
 
