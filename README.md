@@ -3,7 +3,7 @@
 Economista y Analista de Datos enfocado en la toma de decisiones organizacionales. Experiencia intermedia en Python, RStudio, SQL, Power BI y Excel. Especialista en la creación de informes, tableros interactivos, documentación de procesos y capacitación a usuarios.
 
 ## 🔗 Conectemos
-[LinkedIn](www.linkedin.com/in/oscar-ospina-bedoya)
+[LinkedIn](https://linkedin.com/in/oscar-ospina-bedoya)
 
 💡 *Tip: Te recomiendo abrir los enlaces externos en una nueva pestaña (haciendo clic con la rueda del mouse o presionando Ctrl / Cmd + Clic) para no perder de vista este portafolio.*
 
