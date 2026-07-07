@@ -8,6 +8,9 @@ Se sigue los pasos en el siguiente enlace
 
 https://docs.github.com/es/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 
+En el listado, elegí el tema Midnight
+
+```python
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
