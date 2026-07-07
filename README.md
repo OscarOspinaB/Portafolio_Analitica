@@ -2,10 +2,15 @@
 
 Economista y Analista de Datos enfocado en la toma de decisiones organizacionales. Experiencia intermedia en Python, RStudio, SQL, Power BI y Excel. Especialista en la creación de informes, tableros interactivos, documentación de procesos y capacitación a usuarios.
 
+## 📨 Conectemos
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+
+💡 *Tip: Te recomiendo abrir los enlaces externos en una nueva pestaña (haciendo clic con la rueda del mouse o presionando Ctrl / Cmd + Clic) para no perder de vista este portafolio.*
+
 ## 📑 Índice de Proyectos
 
 * [📊 01 Proyecto: Análisis de Datos (Estud-IA)](#-proyecto-análisis-de-datos-estud-ia)
-* [📊 02 Proyecto: Dashboard de Mesa de Ayuda (IT Service Desk)](#-proyecto-dashboard-de-mesa-de-ayuda-ti)
+* [📊 02 Proyecto: Dashboard de Mesa de Ayuda TI ](#-proyecto-dashboard-de-mesa-de-ayuda-ti)
 
 
 ## 📊 Proyecto: Análisis de Datos (Estud-IA) 
