@@ -1,6 +1,12 @@
-# Perfil Profesional:
+#Portafolio Análisis de Datos
+## Perfil Profesional:
 
-Economista y Analista de Datos enfocado en la toma de decisiones organizacionales. Experiencia intermedia en Python, RStudio, SQL, Power BI y Excel. Especialista en la creación de informes, tableros interactivos, documentación de procesos y capacitación a usuarios.
+Economista con experiencia en análisis de datos y visualización para la toma de
+decisiones organizacionales. Manejo de herramientas como Excel, Power BI, SQL,
+Python y RStudio en nivel intermedio. Capacidad para generar informes, tableros y
+documentación de procesos, así como para brindar soporte y capacitación a usuarios.
+Destacado por la adaptabilidad, atención al detalle y escucha activa en entornos
+dinámicos.
 
 ## 🔗 Conectemos
 [LinkedIn](https://linkedin.com/in/oscar-ospina-bedoya)
