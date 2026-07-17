@@ -15,21 +15,33 @@ dinámicos.
 
 ## 📑 Índice de Proyectos
 
-* [📊 01 Proyecto: Análisis de Datos (Estud-IA)](#-01-proyecto-análisis-de-datos-estud-ia)
+* [📊 01 Proyecto Curso Análisis de Datos Junior (Estud-IA): Venta de Vehículos](#-01-proyecto-curso-análisis-de-datos-junior-estud-ia-venta-de-vehículos)
+
 * [📊 02 Proyecto: Dashboard de Mesa de Ayuda TI](#-02-proyecto-dashboard-de-mesa-de-ayuda-ti)
 
 
-## 📊 01 Proyecto: Análisis de Datos (Estud-IA) 
+## 📊 01 Proyecto Curso Análisis de Datos Junior (Estud-IA): Venta de Vehículos
 ---
-**Descripción del proyecto:** Pendiente por agregar 
+**Descripción:** 
+Proyecto integrador finales de habilidades analíticas. Se procesó un dataset de Kaggle sobre ventas de vehículos mediante un pipeline de ETL con Python y se construyó un tablero interactivo en Power BI.
 
-* **Objetivo:** (Pendiente por agregar).
-* **Tecnologías utilizadas:** Python, Power BI.
-* **Resultados clave:** (Pendiente por agregar).
+* **Objetivo:** Ofrecer una solución analítica (MVP) para evaluar el desempeño de ventas, fijación de precios y preferencias del consumidor en el mercado automotriz.
 
-👉 **[Ver Código y detalles del Proyecto Aquí]( )** | **[Ver Dashboard Interactivo]()**
+* **Tecnologías utilizadas:**
+  * **Python:** Extracción mediante la API `kagglehub`, procesamiento y limpieza de datos.
+  * **Power Query:** Transformación y modelado adicional de datos.
+  * **Power BI:** Diseño del dashboard interactivo y visualización de KPIs.
+  
+* **Resultados clave:**
+  * **El "Efecto Descuento" en (Brecha de ventas MMR):** Arrojó un acumulado negativo. Demuestra numéricamente que las expectativas del mercado (**MMR**) son mayores que el precio de venta real, identificando oportunidades para optimizar la fijación de precios.
+  * **Demanda Mayoritaria (Transmisiones):** El **97.41% de las ventas corresponde a vehículos automáticos**, consolidando a la transmisión manual como un activo de baja liquidez y difícil salida en el mercado actual.
+
+---
+🔗 **[Ver Repositorio del Proyecto](AQUÍ_VA_TU_ENLACE)** | 📈 **[Ver Dashboard Interactivo](https://app.powerbi.com/view?r=eyJrIjoiM2U1ODM0MTItOGQyMS00NmVhLWE5MmItNDZkN2M5OTkxYmQwIiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9)**
 
 [Volver al índice](#-índice-de-proyectos)
+
+💡 *Tip: Te recomiendo abrir los enlaces externos en una nueva pestaña (haciendo clic con la rueda del mouse o presionando Ctrl / Cmd + Clic) para no perder de vista este portafolio.*
 
 ## 📊 02 Proyecto: Dashboard de Mesa de Ayuda TI
 ---
@@ -40,7 +52,7 @@ Solución analítica integral que transforma datos crudos de soporte tecnológic
 Optimizar la toma de decisiones del área de TI mediante un tablero que monitorea el volumen de solicitudes, identifica cuellos de botella en los tiempos de resolución y equilibra la carga operativa de los técnicos de soporte.
 
 **Tecnologías utilizadas**  
-* **Power Query:** Extracción desde API REST (JSON), tipado de datos, limpieza de registros nulos, tickets duplicados y transformación de estructuras.
+* **Power Query:** Extracción desde API (JSON), tipado de datos, limpieza de registros nulos, tickets duplicados y transformación de estructuras.
 * **Power BI & DAX:** Cálculo de métricas de rendimiento (KPIs) y diseño de interfaz de usuario con navegación dinámica.
 
 **Resultados clave y funcionalidades**  
