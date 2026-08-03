@@ -13,6 +13,9 @@ dinámicos.
 
 💡 *Tip: Te recomiendo abrir los enlaces externos en una nueva pestaña (haciendo clic con la rueda del mouse o presionando Ctrl / Cmd + Clic) para no perder de vista este portafolio.*
 
+#📢 Portafolio en Construcción 🚧 
+Se espera tener una primer versión en **05/08/26**
+
 ## 📑 Índice de Proyectos
 
 * [📊 01 Proyecto Curso Análisis de Datos Junior (Estud-IA): Venta de Vehículos](#-01-proyecto-curso-análisis-de-datos-junior-estud-ia-venta-de-vehículos)
