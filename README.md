@@ -9,12 +9,13 @@ Destacado por la adaptabilidad, atención al detalle y escucha activa en entorno
 dinámicos.
 
 ## 🔗 Conectemos
-[LinkedIn](https://linkedin.com/in/oscar-ospina-bedoya)
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/fa4fd7be-199f-4f1c-bd91-85bdd7f20fca" /> [LinkedIn](https://linkedin.com/in/oscar-ospina-bedoya)
 
 💡 *Tip: Te recomiendo abrir los enlaces externos en una nueva pestaña (haciendo clic con la rueda del mouse o presionando Ctrl / Cmd + Clic) para no perder de vista este portafolio.*
 
-#📢 Portafolio en Construcción 🚧 
-Se espera tener una primer versión en **05/08/26**
+
+# 📢Portafolio en Construcción 🚧 
+Se espera tener una primer versión en **10/08/26**
 
 ## 📑 Índice de Proyectos
 
