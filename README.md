@@ -15,7 +15,7 @@ dinámicos.
 
 
 # 📢Portafolio en Construcción 🚧 
-Se espera tener una primer versión en **10/08/26**
+Se espera tener una primer versión en **14/08/26**
 
 ## 📑 Índice de Proyectos
 
