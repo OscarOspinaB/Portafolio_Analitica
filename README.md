@@ -29,7 +29,8 @@ Se espera tener una primer versión en **20/08/26**
 * [📊 2.1 Proyecto: Dashboard de Mesa de Ayuda TI](#-21-proyecto-dashboard-de-mesa-de-ayuda-ti)
   
 
-[📊 03 Área Experiencia de Clientes](#-03-Área-Experiencia-de-Cliente)
+[📊 03 Área Experiencia de Clientes](#-03-área-experiencia-de-clientes)
+
 * [📊🌟 3.1 Proyecto: Encuesta de Satisfacción Clientes](#-31-proyecto-encuesta-de-satisfaccion-clientes)
 
 
