@@ -15,13 +15,21 @@ dinámicos.
 
 
 # 📢Portafolio en Construcción 🚧 
-Se espera tener una primer versión en **14/08/26**
+Se espera tener una primer versión en **20/08/26**
 
 ## 📑 Índice de Proyectos
 
-* [📊 01 Proyecto Curso Análisis de Datos Junior (Estud-IA): Venta de Vehículos](#-01-proyecto-curso-análisis-de-datos-junior-estud-ia-venta-de-vehículos)
+ [📊 01 Área Comercial](#-01-Área-Comercial)
 
-* [📊 02 Proyecto: Dashboard de Mesa de Ayuda TI](#-02-proyecto-dashboard-de-mesa-de-ayuda-ti)
+* [📊 1.1 Proyecto Curso Análisis de Datos Junior (Estud-IA): Venta de Vehículos](#-11-proyecto-curso-análisis-de-datos-junior-estud-ia-venta-de-vehículos)
+  
+
+[📊 02 Área TI](#-02-Área-TI)
+
+* [📊 2.1 Proyecto: Dashboard de Mesa de Ayuda TI](#-21-proyecto-dashboard-de-mesa-de-ayuda-ti)
+  
+
+[📊 03 Área Experiencia de Clientes](#-02-Área-Experiencia-de-Cliente)
 
 
 ## 📊 01 Proyecto Curso Análisis de Datos Junior (Estud-IA): Venta de Vehículos
@@ -47,7 +55,7 @@ Proyecto integrador finales de habilidades analíticas. Se procesó un dataset d
 
 💡 *Tip: Te recomiendo abrir los enlaces externos en una nueva pestaña (haciendo clic con la rueda del mouse o presionando Ctrl / Cmd + Clic) para no perder de vista este portafolio.*
 
-## 📊 02 Proyecto: Dashboard de Mesa de Ayuda TI
+## 📊 2.1 Proyecto: Dashboard de Mesa de Ayuda TI
 ---
 **Descripción del proyecto**  
 Solución analítica integral que transforma datos crudos de soporte tecnológico en un centro de comando operativo. El proyecto extrae información automatizada mediante la integración directa con la API JSON de la plataforma oficial de Datos Abiertos Colombia, centralizando el control de requerimientos informáticos institucionales para **Instituto Tolimense de Formación Técnica Profesional de El Espinal, Tolima**.
