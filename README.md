@@ -29,10 +29,12 @@ Se espera tener una primer versión en **20/08/26**
 * [📊 2.1 Proyecto: Dashboard de Mesa de Ayuda TI](#-21-proyecto-dashboard-de-mesa-de-ayuda-ti)
   
 
-[📊 03 Área Experiencia de Clientes](#-02-Área-Experiencia-de-Cliente)
+[📊 03 Área Experiencia de Clientes](#-03-Área-Experiencia-de-Cliente)
+* [📊🌟 3.1 Proyecto: Encuesta de Satisfacción Clientes](#-31-proyecto-encuesta-de-satisfaccion-clientes)
 
 
-## 📊 01 Proyecto Curso Análisis de Datos Junior (Estud-IA): Venta de Vehículos
+
+## 📊 1.1 Proyecto Curso Análisis de Datos Junior (Estud-IA): Venta de Vehículos
 ---
 **Descripción:** 
 Proyecto integrador finales de habilidades analíticas. Se procesó un dataset de Kaggle sobre ventas de vehículos mediante un pipeline de ETL con Python y se construyó un tablero interactivo en Power BI.
@@ -81,3 +83,24 @@ Optimizar la toma de decisiones del área de TI mediante un tablero que monitore
 <img width="898" height="258" alt="vista previa TI" src="https://github.com/user-attachments/assets/e9104f9f-ef83-4223-aa7d-5e42de2ef0fd" />
 
 [Volver al índice](#-índice-de-proyectos)
+
+
+## 📊 03 Área Experiencia de Clientes
+
+## 🌟 3.1 Proyecto: Encuesta de Satisfacción Clientes
+---
+**Descripción:** 
+Proyecto de análisis de experiencia de usuario a partir de dos datasets de Kaggle (datos de encuestas y perfiles demográficos) diseñados con inconsistencias intencionales. Se implementó un pipeline de ETL en Python para limpiar los registros, se integraron ambas fuentes mediante un modelo relacional y se construyó un tablero interactivo de dos páginas en Power BI.
+
+* **Objetivo:** Ofrecer una solución analítica que centralice la voz del cliente, automatice la medición del Net Promoter Score (NPS) e identifique de forma demográfica y geográfica los principales puntos de dolor en el servicio.
+
+* **Tecnologías utilizadas:**
+  * **Python (Google Colab):** Fusiones de datasets por `ID Cliente`, eliminación de duplicados, imputación de valores faltantes y normalización de textos (limpieza de mayúsculas/minúsculas y variantes sintácticas).
+  * **Power Query:** Transformación avanzada, combinación de tablas y creación de columnas condicionales para clasificar automáticamente a los usuarios según la lógica normativa del NPS.
+  * **Power BI:** Diseño del dashboard con menú lateral de segmentación múltiple, medidas DAX para indicadores dinámicos y matriz para análisis de comentarios de texto.
+  
+* **Resultados clave:**
+  * **Alerta Crítica de Lealtad (NPS):** El dashboard reveló que el **56.52% de los clientes encuestados son detractores**, encendiendo alarmas estratégicas para el negocio frente a solo un 18.84% de promotores.
+  * **Cuello de Botella en Servicios:** Se identificó que el área de **Consultoría Financiera** concentra el mayor volumen de interacciones (34 respuestas) y a su vez la mayor acumulación de notas bajas (calificación de 4 con 19 respuestas), aislando el foco del problema operativo.
+  * **Concentración Geográfica de Fricción:** El análisis regional demostró que el **52.17% de los usuarios afectados se ubica en la zona Norte**, permitiendo al equipo de CX coordinar con el área comercial planes de contención hiperlocalizados para evitar la pérdida de clientes (*churn*).
+
