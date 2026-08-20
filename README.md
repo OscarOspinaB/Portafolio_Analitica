@@ -34,6 +34,7 @@ Se espera tener una primer versión en **20/08/26**
 * [📊 3.1 Proyecto: Encuesta de Satisfacción Clientes](#-31-proyecto-encuesta-de-satisfaccion-clientes)
 
 
+# 📊 01 Área Comercial
 
 ## 📊 1.1 Proyecto Curso Análisis de Datos Junior (Estud-IA): Venta de Vehículos
 ---
@@ -57,6 +58,8 @@ Proyecto integrador finales de habilidades analíticas. Se procesó un dataset d
 [Volver al índice](#-índice-de-proyectos)
 
 💡 *Tip: Te recomiendo abrir los enlaces externos en una nueva pestaña (haciendo clic con la rueda del mouse o presionando Ctrl / Cmd + Clic) para no perder de vista este portafolio.*
+
+#📊 02 Área TI
 
 ## 📊 2.1 Proyecto: Dashboard de Mesa de Ayuda TI
 ---
@@ -86,9 +89,9 @@ Optimizar la toma de decisiones del área de TI mediante un tablero que monitore
 [Volver al índice](#-índice-de-proyectos)
 
 
-## 📊 03 Área Experiencia de Clientes
+# 📊 03 Área Experiencia de Clientes
 
-## 3.1 Proyecto: Encuesta de Satisfacción Clientes
+## 📊 3.1 Proyecto: Encuesta de Satisfacción Clientes
 ---
 **Descripción:** 
 Proyecto de análisis de experiencia de usuario a partir de dos datasets de Kaggle (datos de encuestas y perfiles demográficos) diseñados con inconsistencias intencionales. Se implementó un pipeline de ETL en Python para limpiar los registros, se integraron ambas fuentes mediante un modelo relacional y se construyó un tablero interactivo de dos páginas en Power BI.
