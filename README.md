@@ -22,7 +22,8 @@ dinámicos.
  [📊 01 Área Comercial](#-01-Área-Comercial)
 
 * [📊 1.1 Proyecto Curso Análisis de Datos Junior (Estud-IA): Venta de Vehículos](#-11-proyecto-curso-análisis-de-datos-junior-estud-ia-venta-de-vehículos)
-  
+
+* [📊 1.2 Proyecto e‑commerce](#12-proyecto-e-commerce)
 
 [📊 02 Área TI](#-02-Área-TI)
 
@@ -54,6 +55,33 @@ Proyecto integrador finales de habilidades analíticas. Se procesó un dataset d
 
 ---
 🔗 **[Ver Repositorio del Proyecto](https://github.com/OscarOspinaB/Proyecto-Curso-Analisis-de-Datos-Junior-Estud-IA-Venta-de-Vehiculos)** | 📈 **[Ver Dashboard Interactivo](https://app.powerbi.com/view?r=eyJrIjoiM2U1ODM0MTItOGQyMS00NmVhLWE5MmItNDZkN2M5OTkxYmQwIiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9)**
+
+[Volver al índice](#-índice-de-proyectos)
+
+💡 *Tip: Te recomiendo abrir los enlaces externos en una nueva pestaña (haciendo clic con la rueda del mouse o presionando Ctrl / Cmd + Clic) para no perder de vista este portafolio.*
+
+## 📊 1.2 Proyecto e‑commerce
+
+## Descripción
+Proyecto desarrollado en el diplomado de Inteligencia de Negocios, utilizando un conjunto de datos de ventas proporcionado por el profesor.  
+El proceso incluyó la carga y transformación del archivo CSV en Power Query, la construcción del modelo de datos en Power BI y la creación de un informe interactivo con métricas, gráficos y segmentadores.  
+Además, se integró la TRM desde datos.gov como tooltip para mostrar la tasa de cambio y su fecha de vigencia al consultar las ganancias en COP.
+
+## Tecnologías utilizadas
+- **Power BI Desktop**  
+- **Power Query** para limpieza y transformación de datos  
+- **CSV** como fuente de datos principal  
+- **API TRM datos.gov** para información de tasa de cambio  
+- **DAX** para medidas y cálculos personalizados  
+
+## Resultados clave
+- Dashboard interactivo con visualizaciones de ganancias, cantidad de pedidos y distribución por categorías.  
+- Conversión dinámica de ganancias USD a COP utilizando la TRM oficial.  
+- Tooltip informativo mostrando la tasa de cambio y su fecha de vigencia.  
+- Segmentadores por año, mes, estado, ciudad, categoría y cliente para análisis detallado.  
+- Identificación de tendencias mensuales, desempeño por estado y clientes con mayores ganancias.
+
+👉 **[Ver Detalles del Proyecto Aquí](https://github.com/OscarOspinaB/Dashboard-Power-BI-Ventas-con-Semaforos)** | **[Ver Dashboard Interactivo](https://app.powerbi.com/view?r=eyJrIjoiOWRjZWFjM2MtMGNlMi00ZjFmLWFjMzYtNTNkYTFkNzgzZjQzIiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9)**
 
 [Volver al índice](#-índice-de-proyectos)
 
