@@ -31,7 +31,7 @@ Se espera tener una primer versión en **20/08/26**
 
 [📊 03 Área Experiencia de Clientes](#-03-área-experiencia-de-clientes)
 
-* [📊🌟 3.1 Proyecto: Encuesta de Satisfacción Clientes](#-31-proyecto-encuesta-de-satisfaccion-clientes)
+* [📊 3.1 Proyecto: Encuesta de Satisfacción Clientes](#-31-proyecto-encuesta-de-satisfaccion-clientes)
 
 
 
@@ -88,7 +88,7 @@ Optimizar la toma de decisiones del área de TI mediante un tablero que monitore
 
 ## 📊 03 Área Experiencia de Clientes
 
-## 🌟 3.1 Proyecto: Encuesta de Satisfacción Clientes
+## 3.1 Proyecto: Encuesta de Satisfacción Clientes
 ---
 **Descripción:** 
 Proyecto de análisis de experiencia de usuario a partir de dos datasets de Kaggle (datos de encuestas y perfiles demográficos) diseñados con inconsistencias intencionales. Se implementó un pipeline de ETL en Python para limpiar los registros, se integraron ambas fuentes mediante un modelo relacional y se construyó un tablero interactivo de dos páginas en Power BI.
@@ -105,3 +105,6 @@ Proyecto de análisis de experiencia de usuario a partir de dos datasets de Kagg
   * **Cuello de Botella en Servicios:** Se identificó que el área de **Consultoría Financiera** concentra el mayor volumen de interacciones (34 respuestas) y a su vez la mayor acumulación de notas bajas (calificación de 4 con 19 respuestas), aislando el foco del problema operativo.
   * **Concentración Geográfica de Fricción:** El análisis regional demostró que el **52.17% de los usuarios afectados se ubica en la zona Norte**, permitiendo al equipo de CX coordinar con el área comercial planes de contención hiperlocalizados para evitar la pérdida de clientes (*churn*).
 
+👉 **[Ver Detalles del Proyecto Aquí](https://github.com/OscarOspinaB/Proyecto-Python-y-Power-BI-Encuesta-Satisfaccion-de-Clientes)** | **[Ver Dashboard Interactivo](https://app.powerbi.com/view?r=eyJrIjoiMjc1M2U1NDAtNzFiYS00OWFmLWI0ZDAtODZiMGI5OWNhOTdhIiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9)**
+
+💡 *Tip: Te recomiendo abrir los enlaces externos en una nueva pestaña (haciendo clic con la rueda del mouse o presionando Ctrl / Cmd + Clic) para no perder de vista este portafolio.*
