@@ -15,7 +15,7 @@ dinámicos.
 
 
 # 📢Portafolio en Construcción 🚧 
-Se espera tener una primer versión en **20/08/26**
+
 
 ## 📑 Índice de Proyectos
 
@@ -31,7 +31,7 @@ Se espera tener una primer versión en **20/08/26**
 
 [📊 03 Área Experiencia de Clientes](#-03-área-experiencia-de-clientes)
 
-* [📊 3.1 Proyecto: Encuesta de Satisfacción Clientes](#-31-proyecto-encuesta-de-satisfaccion-clientes)
+* [📊 3.1 Proyecto: Encuesta de Satisfacción Clientes](#31-proyecto-encuesta-de-satisfaccion-clientes)
 
 
 # 📊 01 Área Comercial
@@ -59,7 +59,7 @@ Proyecto integrador finales de habilidades analíticas. Se procesó un dataset d
 
 💡 *Tip: Te recomiendo abrir los enlaces externos en una nueva pestaña (haciendo clic con la rueda del mouse o presionando Ctrl / Cmd + Clic) para no perder de vista este portafolio.*
 
-#📊 02 Área TI
+# 📊 02 Área TI
 
 ## 📊 2.1 Proyecto: Dashboard de Mesa de Ayuda TI
 ---
@@ -83,10 +83,11 @@ Optimizar la toma de decisiones del área de TI mediante un tablero que monitore
 
 💡 *Tip: Te recomiendo abrir los enlaces externos en una nueva pestaña (haciendo clic con la rueda del mouse o presionando Ctrl / Cmd + Clic) para no perder de vista este portafolio.*
 
+[Volver al índice](#-índice-de-proyectos)
 ### Vista Previa al Dashboard
 <img width="898" height="258" alt="vista previa TI" src="https://github.com/user-attachments/assets/e9104f9f-ef83-4223-aa7d-5e42de2ef0fd" />
 
-[Volver al índice](#-índice-de-proyectos)
+
 
 
 # 📊 03 Área Experiencia de Clientes
@@ -111,3 +112,5 @@ Proyecto de análisis de experiencia de usuario a partir de dos datasets de Kagg
 👉 **[Ver Detalles del Proyecto Aquí](https://github.com/OscarOspinaB/Proyecto-Python-y-Power-BI-Encuesta-Satisfaccion-de-Clientes)** | **[Ver Dashboard Interactivo](https://app.powerbi.com/view?r=eyJrIjoiMjc1M2U1NDAtNzFiYS00OWFmLWI0ZDAtODZiMGI5OWNhOTdhIiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9)**
 
 💡 *Tip: Te recomiendo abrir los enlaces externos en una nueva pestaña (haciendo clic con la rueda del mouse o presionando Ctrl / Cmd + Clic) para no perder de vista este portafolio.*
+
+[Volver al índice](#-índice-de-proyectos)
